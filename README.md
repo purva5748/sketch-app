@@ -1,2 +1,2 @@
 # sketch-app
-I developed photo to pencil sketch converter using python in datascience
+I have developed photo to pencil sketch converter using python in datascience
